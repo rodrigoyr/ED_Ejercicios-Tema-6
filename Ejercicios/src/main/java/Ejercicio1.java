@@ -1,4 +1,4 @@
-public class Ejercicios1 {
+public class Ejercicios1<T> {
     private T primerElemento;
     private T segundoElemento;
 
